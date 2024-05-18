@@ -1,3 +1,4 @@
 Link of Opp and Python File : https://docs.google.com/document/d/1R00ftK6s-4ugfPKl47Mh4fN12y6MXhokqBUYm13Ut3I/edit?usp=sharing
 Link of Db File: https://docs.google.com/document/d/1krfuGRz0kvBtkwwiyZT1WxpvCEjMtJ7ZKM77271YNG4/edit?usp=sharing
-Link of Django drf File: https://docs.google.com/document/d/18VOUx9essmYO1p2sx6E6JiVD5fxvXP0_0xVJBPGUXMU/edit?usp=sharing
+Link of Django mvt File: https://docs.google.com/document/d/18VOUx9essmYO1p2sx6E6JiVD5fxvXP0_0xVJBPGUXMU/edit?usp=sharing
+Link of Django drf File: https://docs.google.com/document/d/1EI2YvdSZi4-BZDeTCmJoVdjjvqIbnG1CwEm0jpZd1iI/edit?usp=sharing
